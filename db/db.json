@@ -1,0 +1,26 @@
+{
+    "conteudos": [
+        {
+            "nome": "GitHub",
+            "descricao": "Git hub é a principal plataforma para hospedagem de arquivos e codigos-fonte por meio do git. Podendo ser acessados de qualquer lugar do mundo, assim podendo interligar projetos feitos isoladamente por cada um",
+            "imagem": "assets/img/git.png",
+            "link": "https://github.com/",
+            "id": 1
+        },
+        {
+            "id": 2,
+            "nome": "Como programar em C",
+            "descricao": "Conteúdo introdutório realizado pelo Pietro que resume bastante a parte essencial da linguagem C (clique na imagem para acessar o video)",
+            "imagem": "assets/img/programando em c.jpeg",
+            "link": "https://www.youtube.com/watch?v=mEPkcSdPigg&ab_channel=PietroMartinsDeOliveira"
+        },
+        {
+            "id": 3,
+            "nome": "Qual linguagem aprender primeiro?",
+            "descricao": "Dentre todas as linguagens existentes, algumas possuem ferramentas que facilitam seu uso para situações específicas, mas aprender linguagens as quais são mais rebuscadas, te oferecem um repertorio que facilitará o aprendizado de outras futuramente, uma vez que são como a porta de entrada para o aprendizado futuro",
+            "imagem": "assets/img/qualling (1).jpeg",
+            "link": "https://kinsta.com/pt/blog/melhor-linguagem-de-programacao/"
+        }
+    ]
+
+}
