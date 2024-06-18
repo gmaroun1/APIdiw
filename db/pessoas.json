@@ -1,0 +1,23 @@
+{
+    "pessoas": [
+        {
+            "nome": "Rafael",
+            "imagem": "../assets/img/refeud.jpeg",
+            "github": "https://github.com/Kimdolittle",
+            "id": 1
+        },
+        {
+            "id": 2,
+            "nome": "João Marcos",
+            "imagem": "../assets/img/marquis.jpeg",
+            "github": "https://github.com/jonymarquetin"
+        },
+        {
+            "id": 3,
+            "nome": "Kim",
+            "imagem": "../assets/img/kim.jpeg",
+            "github": "https://github.com/Kimdolittle"
+        }
+
+    ]
+}

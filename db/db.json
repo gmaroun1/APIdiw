@@ -2,7 +2,7 @@
     "conteudos": [
         {
             "nome": "GitHub",
-            "descricao": "Git hub é a principal plataforma para hospedagem de arquivos e codigos-fonte por meio do git. Podendo ser acessados de qualquer lugar do mundo, assim podendo interligar projetos feitos isoladamente por cada um",
+            "descricao": "GitHub é a principal plataforma para hospedagem de arquivos e codigos-fonte por meio do git. Podendo ser acessados de qualquer lugar do mundo, assim podendo interligar projetos feitos isoladamente por cada um",
             "imagem": "assets/img/git.png",
             "link": "https://github.com/",
             "id": 1
