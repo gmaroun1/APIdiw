@@ -8,7 +8,7 @@
       "start:db2": "json-server --watch ./db/pessoas.json -s ./public"
     },
     "keywords": [],
-    "author": "Rommel Vieira Carneiro",
+    "author": "Gabriel Maroun",
     "license": "ISC",
     "dependencies": {
       "cors": "^2.8.5",
